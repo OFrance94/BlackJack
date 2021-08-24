@@ -9,7 +9,7 @@ public class Game {
 	static boolean playerBust = false;
 	static boolean dealerBust = false;
 	static String keepPlaying = "y";
-	//static int money = 500; //use a loop to keep playing and change money amount d
+	//static int money = 500; //use a loop to keep playing and change money amount das
 
 	public static void main(String[] args) {
 		while(keepPlaying.equals("y")) {
